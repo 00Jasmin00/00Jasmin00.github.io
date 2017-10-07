@@ -11,6 +11,11 @@ body {
 	line-height: 1;
 }
 
+h1 {
+font-size: 8em;
+color: #f576a0;
+}
+
 ol, ul {
 	list-style: none;
 }
